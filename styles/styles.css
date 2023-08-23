@@ -135,10 +135,7 @@ body {
     border-radius: 15%;
 }
 
-.apresentacao__imagem:hover {
-    border: 1px solid transparent;
-       
-}
+
 
 .rodape {
     padding: 4px;
