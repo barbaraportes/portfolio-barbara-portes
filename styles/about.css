@@ -1,0 +1,21 @@
+#about_fundo {
+    background-color: white;
+    color: black;                               
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.518);
+    width: 700px;
+}
+
+#about_p {
+    font-size: 0.8em;
+    padding: 6px;
+    font-weight: 600;            
+}
+
+@media (max-width: 1200px) {
+    #about_fundo {                    
+        width: auto;
+    }
+}    
+
